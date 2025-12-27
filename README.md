@@ -1,4 +1,4 @@
-# vehicl-data-analysis (Excel)
+# vehicle-data-analysis (Excel)
 
 ## Overview
 This project was created to practice basic data organization and analysis related to vehicle performance.
